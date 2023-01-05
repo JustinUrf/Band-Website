@@ -1,0 +1,19 @@
+
+.rightSideBar{
+  width: 50%;
+  float: right;
+  background-color: yellow;
+  color:black;
+  padding-left: 50px;
+}
+.images{
+  float: right;
+}
+.blueHeader {
+  background-color: skyblue;
+  text-align: center;
+}
+.floatLeft{
+  width: 30%;
+  float: left;
+}
