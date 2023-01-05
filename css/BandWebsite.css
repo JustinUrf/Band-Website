@@ -1,19 +1,26 @@
 
 .rightSideBar{
-  width: 50%;
+  width: 400px;
   float: right;
+  border: solid orange;
+  border-width :5px;
   background-color: yellow;
   color:black;
   padding-left: 50px;
 }
 .images{
   float: right;
+  padding-right: 300px;
 }
 .blueHeader {
   background-color: skyblue;
   text-align: center;
 }
 .floatLeft{
-  width: 30%;
+  width: 500px;
   float: left;
+  border:solid blue;
+  border-width: 10px;
+  background-color:skyblue;
+
 }
